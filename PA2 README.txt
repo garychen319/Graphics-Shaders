@@ -1,6 +1,6 @@
 Graphics Shaders
 
-Comment out the shader options Renderer to test them.
+Comment out the shader options in Renderer to test them.
 
 Shaders Implemented:
 
